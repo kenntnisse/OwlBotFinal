@@ -1,6 +1,6 @@
 # OwlBotFinal
 From BHS SciOly 2023-24, Robot Tour </br>
-Originally an Elegoo Owl Smart Robot, since modified to suit my needs. </br>
+Originally an [Elegoo Owl Smart Robot](https://www.elegoo.com/blogs/arduino-projects/elegoo-owlbot-smart-robot-car-tutorial?srsltid=AfmBOorBhJ1Xlew_OuomFE17_fHrHFBmD4U7oXXdwr9q3L45E3bCSEt4), since modified to suit my needs. </br>
 Operating on an Arduino Nano, with a gyro/accelerometer MPU6050 and two TB6612 motors, the robot uses 3 AAA batteries. </br>
 
 ## Folder Descriptions
